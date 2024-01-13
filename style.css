@@ -1,0 +1,46 @@
+.result{
+    width: 1300px;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    gap:20px;
+}
+.category{
+    width: 300px;
+    box-shadow: 0 4px 8px black;
+    border-radius: 10px;
+}
+.category img{
+    width: 100%;
+    object-fit: cover;
+}
+
+.results{
+    width: 1500px;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    gap:20px;
+}
+.foods{
+    width: 300px;
+    box-shadow: 0 4px 8px black;
+    border-radius: 10px;
+}
+
+.foods img{
+    width: 100%;
+    object-fit: cover;
+}
+
+
+
+.resultd{
+    width: 600px;
+    height: 700px;
+    margin: 0 auto;
+}
+.recept{
+    width: 600px;
+    height: 400px;
+}
